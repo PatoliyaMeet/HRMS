@@ -1,0 +1,34 @@
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\bin\Debug\net7.0\Repository.deps.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\bin\Debug\net7.0\Repository.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\bin\Debug\net7.0\Repository.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\bin\Debug\net7.0\Model.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\bin\Debug\net7.0\Model.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\refint\Repository.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\bin\Debug\net7.0\Model.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\bin\Debug\net7.0\Model.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\Repository\obj\Debug\net7.0\ref\Repository.dll

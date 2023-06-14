@@ -1,0 +1,180 @@
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\appsettings.Development.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\appsettings.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.exe
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.deps.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.runtimeconfig.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Azure.Core.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Azure.Identity.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Humanizer.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Scrutor.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.CodeDom.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Model.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Repository.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Model.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\bin\Debug\net7.0\Repository.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.csproj.AssemblyReference.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.AssemblyInfoInputs.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.AssemblyInfo.cs
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.csproj.CoreCompileInputs.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.HRMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.build.HRMSApi.props
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRMSApi.props
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRMSApi.props
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets.build.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets.development.json
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\scopedcss\bundle\HRMSApi.styles.css
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.csproj.CopyComplete
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\refint\HRMSApi.dll
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.pdb
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.genruntimeconfig.cache
+G:\Trainee\Work\ASP.Net Core\#Projects\1.API\HRMSApi\HRMSApi\obj\Debug\net7.0\ref\HRMSApi.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\appsettings.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.exe
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.deps.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.runtimeconfig.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\HRMSApi.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Model.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Repository.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Model.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\bin\Debug\net7.0\Repository.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.csproj.AssemblyReference.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.AssemblyInfoInputs.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.AssemblyInfo.cs
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.csproj.CoreCompileInputs.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.HRMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.build.HRMSApi.props
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRMSApi.props
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRMSApi.props
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\scopedcss\bundle\HRMSApi.styles.css
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.csproj.CopyComplete
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\refint\HRMSApi.dll
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.pdb
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\HRMSApi.genruntimeconfig.cache
+C:\Users\CS-DC-09\Downloads\HRMS Meet\HRMS Meet\HRMSApi\HRMSApi\obj\Debug\net7.0\ref\HRMSApi.dll
